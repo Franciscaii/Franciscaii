@@ -1,5 +1,25 @@
 <details>
-<summary>Tools</summary>
+<summary>Acerca de mí</summary>
+
+- **Formación Académica:**  
+  Soy estudiante de Ingeniería en Informática, cursando el quinto semestre en la institución INACAP, ubicada en Santiago, Chile.  
+
+- **Intereses Profesionales:**  
+  - Desarrollo de páginas web.  
+  - Mantenimiento de sitios web.  
+  - Creación de aplicaciones móviles.  
+
+- **Pasatiempos y Hobbies:**  
+  - Pintar cuadros.  
+  - Cultivar vegetales y frutas en mi huerta.  
+  - Cocinar y explorar nuevas recetas.  
+  - Practicar deporte para mantenerme activa.  
+
+</details>
+
+
+<details>
+<summary>Herramientas</summary>
 <div>
   <p style="display: inline-block;" align="center">
     <kbd>
