@@ -89,7 +89,7 @@
 
 
 <details>
-  <summary>Open Source Contributions</summary>
+  <summary>Contribuciones de código abierto</summary>
   <br>
   <ul>
     <li><strong> titulo :</strong> Texto.</li>
