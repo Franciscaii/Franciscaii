@@ -89,6 +89,15 @@
 
 
 <details>
+  <summary>Open Source Contributions</summary>
+  <br>
+  <ul>
+    <li><strong> titulo :</strong> Texto.</li>
+  </ul>
+</details>
+
+
+<details>
 <summary>¿Qué puedo hacer por ti?</summary>
 <table style="border: none">
   <tr>
