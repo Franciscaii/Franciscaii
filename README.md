@@ -9,8 +9,7 @@
   - Mantenimiento de sitios web.  
   - Creación de aplicaciones móviles.  
 
-- **Pasatiempos y Hobbies:**  
-  - Pintar cuadros.  
+- **Pasatiempos y Hobbies:**    
   - Cultivar vegetales y frutas en mi huerta.  
   - Cocinar y explorar nuevas recetas.  
   - Practicar deporte para mantenerme activa.  
@@ -107,7 +106,7 @@
 
 ## ¡Trabajemos juntos en tu proyecto!
 
-Quiero invitarte a que trabajemos juntos para poner en marcha tu proyecto. Si tienes alguna consulta sobre desarrollo web ,no dudes en <a href="mailto:francisca.figueroaer@gmail.com">contactarme por correo electrónico.</a>.
+Quiero invitarte a que trabajemos juntos para poner en marcha tu proyecto. Si tienes alguna consulta sobre desarrollo web o si estás buscando un desarrollador Full Stack, no dudes en <a href="mailto:francisca.figueroaer@gmail.com">contactarme por correo electrónico.</a>
 
   </td>
   <td width="50%" valign="top">
