@@ -2,7 +2,11 @@
 <!--  -->
 
 
-![PORTADAGIT](https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png)
+<!-- ![PORTADAGIT](https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png) -->
+<p align="center">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png" alt="PORTADAGIT">
+</p>
+
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
 
 
