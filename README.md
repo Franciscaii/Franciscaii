@@ -1,8 +1,6 @@
 <h1 align="center"><b>Hola,Soy Francisca Figueroa </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
+
 
 ![PORTADAGIT](https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png)
 [![Gmail Badge](https://img.shields.io/badge/-paula.salgado03@inacapmail.cl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula.salgado03@inacapmail.cl)](mailto:francisca.figueroaer@gmail.com) 
@@ -86,18 +84,9 @@
    ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=purple&size=30&center=true&vCenter=true&width=600&height=100&lines=Trabajemos+juntos+en+tu+Proyecto">
+  </a>
+</p>
 
-<!--
-**PauxSy/PauxSy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-##- 🔭 I’m currently working on creating an AI project for my university using OpenAI and ChromaDB.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
