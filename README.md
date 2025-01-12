@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-![PORTADAGIT](https://github.com/user-attachments/assets/1c018340-5268-472c-a773-d2086f35be6b)
+![PORTADAGIT](https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png)
 [![Gmail Badge](https://img.shields.io/badge/-paula.salgado03@inacapmail.cl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula.salgado03@inacapmail.cl)](mailto:francisca.figueroaer@gmail.com) 
 
 <h3>About me 👩:</h3>
