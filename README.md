@@ -3,7 +3,7 @@
 
 
 ![PORTADAGIT](https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png)
-[![Gmail Badge](https://img.shields.io/badge/-paula.salgado03@inacapmail.cl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:paula.salgado03@inacapmail.cl)](mailto:francisca.figueroaer@gmail.com) 
+[![Gmail Badge](https://img.shields.io/badge/-paula.salgado03@inacapmail.cl-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com) 
 
 <h3>About me 👩:</h3>
 
