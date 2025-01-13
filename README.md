@@ -14,6 +14,10 @@
 ![English Level](https://img.shields.io/badge/English-Basic-blue?style=for-the-badge)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
+![English Level](https://img.shields.io/badge/English-Basic-blue?style=for-the-badge&labelColor=black)
+![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge&labelColor=black)
+
+
 
 Pais Chile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
