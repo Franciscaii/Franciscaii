@@ -2,7 +2,7 @@
 <!--  -->
 
 
-<!-- ![PORTADAGIT](https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png) -->
+
 <p align="center">
   <img src="https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png" alt="PORTADAGIT">
 </p>
@@ -18,10 +18,7 @@
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
-</p>
-
+## Pais Chile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="center">
 <h3>Alojamiento en la nube</h3>
