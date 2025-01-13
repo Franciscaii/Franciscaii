@@ -96,3 +96,11 @@
 
 Última edición:  13/01/2025  <br>
 Gracias por visitar mi perfil 🤓
+
+
+<a href="mailto:francisca.figueroaer@gmail.com">
+  <video width="640" height="360" controls>
+    <source src="Vídeo sin título ‐ Hecho con Clipchamp (1).mp4" type="video/mp4">
+    Tu navegador no soporta el elemento de video.
+    </video>
+</a>
