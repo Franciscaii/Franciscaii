@@ -22,7 +22,7 @@
 
 
 🎓 **Formación Académica:**  
-Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
+- Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
 
 
 🎮 **Cualidades Personales:**  
