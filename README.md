@@ -24,7 +24,7 @@ Soy estudiante <br>
 ---
 
 ## 🎓Formación Académica:
-- Actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
+- Actualmente soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
 - Tengo experiencia y conocimiento trabajando con:
 
 
