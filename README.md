@@ -21,9 +21,12 @@ Soy estudiante <br>
 >perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
 >la capacidad de dudar es un signo de sabiduría.
 
+--
+
 ##🎓Formación Académica:
 - Actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
 - Tengo experiencia y conocimiento trabajando con:
+
 
 <p align="center">
 <h3>Alojamiento en la nube</h3>
