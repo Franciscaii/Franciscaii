@@ -85,11 +85,11 @@
   </a>
 </p>
 
-<div style="text-align: center;">
+<p align="center">
   <a href="mailto:francisca.figueroaer@gmail.com">
     <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
   </a>
-</div>
+</p>
 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
