@@ -13,10 +13,19 @@
 
 
 <br>
-<h3>Idiomas:</h3>
+<h3>Idiomas Manejados:</h3>
 
 ![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
+
+
+<h3>Idiomas Manejados:</h3>
+
+![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
+![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
+![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
+![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
+
 
 
 :pushpin:[Ubicación](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
