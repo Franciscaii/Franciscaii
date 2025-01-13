@@ -71,24 +71,7 @@
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=purple&size=30&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!">
-  </a>
-</p>
 
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Arial&color=FF00FF&size=30&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
