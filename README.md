@@ -33,14 +33,15 @@
 ## 🕹️ Acerca de mí  
 🎓 **Formación Académica:**  
 Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
-:pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6)  
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
+:pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 
 🎮 **Cualidades Personales:**  
-> Me apasiona el desarrollo de proyectos y el proceso creativo detrás de ellos.  
-> 💡 Soy versátil, autocrítica, comprometida, organizada, perseverante y reflexiva.  
-> *"En un mundo lleno de certezas, la capacidad de dudar es un signo de sabiduría"*  
-> — Bertrand Russell  
+
+>Me apasionan los proyectos tanto como el proceso creativo de diseño como de su desarrollo ,
+>las temáticas de estos varían constantemente, siendo realizados tanto por índole personal
+>como profesional .💡 Me considero una persona versátil ,autocritica , comprometía, organizada,
+>perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
+>la capacidad de dudar es un signo de sabiduría.
 
 ---
 
