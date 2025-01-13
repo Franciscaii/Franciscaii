@@ -18,6 +18,9 @@
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
 
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=brdhanani.brdhanani" alt="visitor badge"/>
+</p>
 
 
 <p align="center">
