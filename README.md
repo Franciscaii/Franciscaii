@@ -5,11 +5,12 @@
   <img src="https://github.com/Franciscaii/Franciscaii/blob/main/Captura%20de%20pantalla%202025-01-12%20183437.png" alt="PORTADAGIT">
 </p>
 
+
 <div style="text-align: center;">
-  <a href="mailto:francisca.figueroaer@gmail.com">
+  <a href="mailto:francisca.figueroaer@gmail.com" style="display: inline-block;">
     <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com" alt="Gmail Badge">
   </a>
-  <a href="https://discord.com/users/1149484605800448152">
+  <a href="https://discord.com/users/1149484605800448152" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
