@@ -12,7 +12,7 @@
 :pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 
 
-🎓 ##Formación Académica:## 
+##🎓Formación Académica:
 - Soy Francisca Figueroa de 22 Años actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
 
 
