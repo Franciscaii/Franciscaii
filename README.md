@@ -10,18 +10,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
 
 
-<h3>About me 👩:</h3>
 
-👾Specializing in Back-End Development<br>
-🧑‍🎓I am a graduate of the Technical Professional Program in Software Development at INACAP<br>
-⚜️I consider myself a persevering and determined woman, passionate about technology and computer science.<br>
-💜I love learning and see every challenge in life an important opportunity to grow. <br>
-🌏 I'm from Chile, Working for the World<br>
 
 <br>
-<h3>✔ Spoken Languages:</h3>
+<h3>Idiomas:</h3>
 
-![English Level](https://img.shields.io/badge/English-Intermediate-blue?style=for-the-badge)
+![English Level](https://img.shields.io/badge/English-Basic-blue)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
