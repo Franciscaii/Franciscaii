@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!" style="border: 5px solid red; border-radius: 1px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!">
   </a>
 </p>
 
