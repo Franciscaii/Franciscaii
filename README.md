@@ -106,5 +106,15 @@
 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
+
+<div style="width: 100%; display: flex; justify-content: center; gap: 10px;">
+  <a href="mailto:francisca.figueroaer@gmail.com">
+    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com" alt="Gmail Badge">
+  </a>
+  <a href="https://discord.com/users/1149484605800448152">
+    <img src="https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
 Última edición:  13/01/2025  <br>
 Gracias por visitar mi perfil 🤓
