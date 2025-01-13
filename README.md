@@ -13,7 +13,7 @@
 
 
 🎓 **Formación Académica:**  
-- Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
+- Soy Francisca Figueroa de 22 Años actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
 
 
 🎮 **Cualidades Personales:**  
