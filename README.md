@@ -21,15 +21,6 @@
 :pushpin:[Ubicación](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
-
-<h1 align="center">
-  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/pixel-avatar.gif" width="100px">
-  <br>
-  ¡Bienvenid@ a mi Portafolio!
-</h1>
-
----
-
 ## 🕹️ Acerca de mí  
 🎓 **Formación Académica:**  
 Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
