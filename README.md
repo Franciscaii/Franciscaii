@@ -91,6 +91,33 @@
 </p>
 
 
+<style>
+  @keyframes vibrar {
+    0%, 100% { transform: translateX(0); }
+    20% { transform: translateX(-2px); }
+    40% { transform: translateX(2px); }
+    60% { transform: translateX(-2px); }
+    80% { transform: translateX(2px); }
+  }
+
+  .vibrar {
+    display: inline-block;
+    animation: none;
+    transition: transform 0.2s ease;
+  }
+
+  .vibrar:hover {
+    animation: vibrar 0.5s infinite;
+  }
+</style>
+
+<p align="center">
+  <a href="mailto:francisca.figueroaer@gmail.com" class="vibrar">
+    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</p>
+
+
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
 Última edición:  13/01/2025  <br>
