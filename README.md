@@ -53,11 +53,11 @@ Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre e
 
 ---
 
-## 🎲 Interactivo y en Pixel Art  
+## 🎲 Proyectos  
 
 ### **Presiona los botones para explorar más sobre mí**  
 [![Proyectos](https://img.shields.io/badge/-Ver%20Proyectos-%23FF6D00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franciscaii?tab=repositories)  
-[![Contacto](https://img.shields.io/badge/-Contacto-%230A81AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisca.figueroaer@gmail.com)
+
 
 ---
 
