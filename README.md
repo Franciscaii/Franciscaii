@@ -95,11 +95,12 @@
     
 </p>
 
-<div style="text-align: center;">
-  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" 
-       width="60px" 
-       style="position: relative; left: 20px;">
-</div>
+
+
+
+<p style="position: relative; right: 500px;>
+  </a><img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
+</p>
 
 
 <p align="center">
