@@ -98,4 +98,4 @@
 Gracias por visitar mi perfil 🤓
 
 
-<a href="mailto:francisca.figueroaer@gmail.com"><button class="gif-button"><img src="/templante/botongmail.gif" alt="Enviar correo a Francisca"></button></a>
+<a href="mailto:francisca.figueroaer@gmail.com"><button class="gif-button"><img src=https://github.com/Franciscaii/Franciscaii/blob/main/botongmail.gif alt="Enviar correo a Francisca"></button></a>
