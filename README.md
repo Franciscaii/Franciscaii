@@ -84,14 +84,11 @@
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=10&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Contactame+al+siguiente+Correo." style="border: 5px solid red; border-radius: 10px;">
   </a>
 </p>
-
-
 
 <p align="center">
     <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
