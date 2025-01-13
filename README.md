@@ -12,19 +12,13 @@
 
 
 <p align="right">
-  <a href="mailto:francisca.figueroaer@gmail.com">
-    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com" alt="Gmail Badge">
-  </a><a href="https://discord.com/users/1149484605800448152">
-    <img src="https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
+  <a href="mailto:francisca.figueroaer@gmail.com"><img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com" alt="Gmail Badge"></a>
 </p>
 
-
-<p align="center">
-  <a href="mailto:francisca.figueroaer@gmail.com">
-    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
+<p align="right">
+  <a href="https://discord.com/users/1149484605800448152"><img src="https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
 </p>
+
 
 
 <h3>Idiomas Manejados:</h3>
