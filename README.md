@@ -16,54 +16,6 @@
 - Soy Francisca Figueroa de 22 Años actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
 
 
-🎮 **Cualidades Personales:**  
-
->Me apasionan los proyectos tanto como el proceso creativo de diseño como de su desarrollo ,
->las temáticas de estos varían constantemente, siendo realizados tanto por índole personal
->como profesional .💡 Me considero una persona versátil ,autocritica , comprometía, organizada,
->perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
->la capacidad de dudar es un signo de sabiduría.
-
----
-
-## 🛠️ Intereses Profesionales  
-- 🌐 Desarrollo y mantenimiento de páginas web  
-- 📱 Creación de aplicaciones móviles  
-- 🗂️ Bases de datos  
-
----
-
-## 🎨 Pasatiempos y Hobbies  
-🌱 Cultivar mis propios vegetales.
-⛰️ Escalar montañas y cerros. 
-🖌️ Pintar cuadros.
-📚 Leer manga, ver anime, K-dramas, J-dramas, Documentales.
-🍳 Experimentar nuevas recetas. 
-🔨 Carpintería  
-
-
----
-
-## 🎲 Proyectos  
-
-### **Presiona los botones para explorar más sobre mí**  
-[![Proyectos](https://img.shields.io/badge/-Ver%20Proyectos-%23FF6D00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franciscaii?tab=repositories)  
-
-
----
-## Contactame con:
-
-[![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
-
----
-
-<p align="center">
-  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/arcade-game.gif" width="600px" alt="Pixel art arcade style">
-</p>
-
-
-
 <p align="center">
 <h3>Alojamiento en la nube</h3>
 
@@ -119,6 +71,57 @@
 
 ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+
+
+🎮 **Cualidades Personales:**  
+
+>Me apasionan los proyectos tanto como el proceso creativo de diseño como de su desarrollo ,
+>las temáticas de estos varían constantemente, siendo realizados tanto por índole personal
+>como profesional .💡 Me considero una persona versátil ,autocritica , comprometía, organizada,
+>perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
+>la capacidad de dudar es un signo de sabiduría.
+
+---
+
+## 🛠️ Intereses Profesionales  
+- 🌐 Desarrollo y mantenimiento de páginas web  
+- 📱 Creación de aplicaciones móviles  
+- 🗂️ Bases de datos  
+
+---
+
+## 🎨 Pasatiempos y Hobbies  
+🌱 Cultivar mis propios vegetales.
+⛰️ Escalar montañas y cerros. 
+🖌️ Pintar cuadros.
+📚 Leer manga, ver anime, K-dramas, J-dramas, Documentales.
+🍳 Experimentar nuevas recetas. 
+🔨 Carpintería  
+
+
+---
+
+## 🎲 Proyectos  
+
+### **Presiona los botones para explorar más sobre mí**  
+[![Proyectos](https://img.shields.io/badge/-Ver%20Proyectos-%23FF6D00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franciscaii?tab=repositories)  
+
+
+---
+## Contactame con:
+
+[![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
+
+---
+
+<p align="center">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/arcade-game.gif" width="600px" alt="Pixel art arcade style">
+</p>
+
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscaii&show_icons=true&theme=radical)
