@@ -17,11 +17,8 @@
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
 
 
-[Pais Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+:pushpin:[Ubicación](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
-
-
-:pushpin: 
 
 <p align="center">
 <h3>Alojamiento en la nube</h3>
