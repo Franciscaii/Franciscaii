@@ -68,6 +68,10 @@ Pais Chile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mas
 ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+
+![Francisca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscaii&show_icons=true&theme=radical)
+
+
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
 
