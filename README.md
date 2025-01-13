@@ -96,9 +96,10 @@
 </p>
 
 
-<div style="text-align: right;">
-        <img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
-    </div>
+<div align="right">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
+</div>
+
 
 
 <p align="center">
