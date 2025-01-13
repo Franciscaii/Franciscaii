@@ -84,12 +84,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Contactame+al+siguiente+Correo." >
-  </a>
-</p>
-
 
 <p align="center">
     <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
@@ -100,6 +94,13 @@
              onmouseout="this.style.transform='scale(1)'">
     </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Contactame+al+siguiente+Correo." >
+  </a>
+</p>
+
 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
