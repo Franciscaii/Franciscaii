@@ -108,7 +108,8 @@ Gracias por visitar mi perfil 🤓
     </a>
 </div>
 
-<body style="margin: 0; padding: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f0f0f0;">
+
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
     <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
         <img src="https://github.com/Franciscaii/Franciscaii/blob/main/botongmail.gif" 
              alt="Enviar correo a Francisca" 
@@ -116,7 +117,7 @@ Gracias por visitar mi perfil 🤓
              onmouseover="this.style.transform='scale(1.1)'" 
              onmouseout="this.style.transform='scale(1)'">
     </a>
-</body>
+</div>
 
 
 
