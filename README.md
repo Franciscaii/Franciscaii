@@ -20,8 +20,8 @@
 >la capacidad de dudar es un signo de sabiduría.
 
 ##🎓Formación Académica:
-- Soy Francisca Figueroa de 22 Años actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
-
+- Actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
+- Tengo experiencia y conocimiento trabajando con:
 
 <p align="center">
 <h3>Alojamiento en la nube</h3>
