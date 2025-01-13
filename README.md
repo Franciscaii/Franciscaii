@@ -14,26 +14,10 @@
 <h3>Idiomas Manejados:</h3>
 
 ![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
+![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)🦻
 ![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
 ![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
 
-
-<h3>Idiomas Manejados:</h3>
-
-![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
-![Japanese Listening](https://img.shields.io/badge/Japanese-%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
-![Emoji Listening](https://img.shields.io/badge/Listening-%20🦻-%23e9a0a0?style=for-the-badge&labelColor=black)
-![Korean Listening](https://img.shields.io/badge/Korean-%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
-![Emoji Listening](https://img.shields.io/badge/Listening-%20🦻-%23e9a0a0?style=for-the-badge&labelColor=black)
-
-<h3>Idiomas Manejados:</h3>
-
-![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
-![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening%20🦻-%23ffb6c1?style=for-the-badge&labelColor=black)
-![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening%20🦻-%23ffb6c1?style=for-the-badge&labelColor=black)
 
 
 
