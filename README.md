@@ -95,6 +95,11 @@
     
 </p>
 
+<p align="center" style="text-align: center; padding-left: 20px;">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
+</p>
+
+
 <p align="center">
   </a><img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
 </p>
