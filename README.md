@@ -11,14 +11,6 @@
 [![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 
-
-<br>
-<h3>Idiomas Manejados:</h3>
-
-![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
-
-
 <h3>Idiomas Manejados:</h3>
 
 ![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
