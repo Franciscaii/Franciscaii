@@ -18,7 +18,6 @@
 ![English Level](https://img.shields.io/badge/English-Basic-blue?style=for-the-badge)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
 
 
@@ -53,7 +52,7 @@
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
    
-<h3>⚙️Softwares and Tools</h3>
+<h3>Software y herramientas</h3>
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -65,11 +64,12 @@
   ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-
 <h3>Extras</h3>
-  ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
-  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
+![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
