@@ -97,3 +97,5 @@
 Última edición:  13/01/2025  <br>
 Gracias por visitar mi perfil 🤓
 
+
+<a href="mailto:francisca.figueroaer@gmail.com"><button class="gif-button"><img src="/templante/botongmail.gif" alt="Enviar correo a Francisca"></button></a>
