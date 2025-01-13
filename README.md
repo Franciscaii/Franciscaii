@@ -72,9 +72,8 @@ Pais Chile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/mas
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscaii&show_icons=true&theme=radical)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscaii&layout=compact&theme=radical" alt="Top Langs">
-</div>
+
+<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscaii&count_private=true&theme=radical" alt="Franciscaii" />
 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
