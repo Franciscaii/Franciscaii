@@ -96,10 +96,9 @@
 </p>
 
 
-<p style="margin-left: 620px;">
+<p style="text-align: right; padding-right: 620px;">
   <img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
 </p>
-
 
 
 <p align="center">
