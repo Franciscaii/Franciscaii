@@ -117,12 +117,6 @@ Soy estudiante <br>
 [![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 ---
-
-<p align="center">
-  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/arcade-game.gif" width="600px" alt="Pixel art arcade style">
-</p>
-
----
 ## 📊 Mis estadísticas de GitHub
 
 
@@ -130,6 +124,10 @@ Soy estudiante <br>
 
 <img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscaii&count_private=true&theme=radical" alt="Franciscaii" />
 ---
+
+<p align="center">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/arcade-game.gif" width="600px" alt="Pixel art arcade style">
+</p>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
