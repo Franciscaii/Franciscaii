@@ -15,7 +15,7 @@
 <br>
 <h3>Idiomas:</h3>
 
-![English Level](https://img.shields.io/badge/English-Basic-blue)
+![English Level](https://img.shields.io/badge/English-Basic-blue?style=for-the-badge)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
