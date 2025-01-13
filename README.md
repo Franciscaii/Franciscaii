@@ -7,15 +7,6 @@
 <h1 align="center"><b>¡Bienvenid@ a mi Portafolio!</b></h1>
 
 
-<h3>Idiomas Manejados:</h3>
-
-![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
-![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
-![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
-
-
-
 ## 🕹️ Acerca de mí  
 
 :pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
@@ -114,6 +105,14 @@
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4B32C3?style=for-the-badge&logo=mysql&logoColor=white)
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+<h3>Idiomas Manejados:</h3>
+
+![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
+![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
+![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
+![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
 
 
 <h3>Extras</h3>
