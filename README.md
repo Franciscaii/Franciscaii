@@ -67,8 +67,8 @@
 
 
 <h3>Extras</h3>
-   ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
-   ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+  ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 
 <p align="center">
