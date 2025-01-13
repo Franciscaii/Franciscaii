@@ -96,14 +96,8 @@
 </p>
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
 
-
-
-<div align="right">
-  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
-</div>
+<br><br><br><br><br><br><br><br><br><br><img src="https://github.com/Franciscaii/Franciscaii/blob/main/giphy%20(1).gif" width="60px">
 
 
 
