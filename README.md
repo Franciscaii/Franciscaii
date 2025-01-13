@@ -6,14 +6,10 @@
 </p>
 
 
-<div>
-  <a href="mailto:francisca.figueroaer@gmail.com">
-    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com" alt="Gmail Badge"/>
-  </a>
-  <a href="https://discord.com/users/1149484605800448152">
-    <img src="https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</div>
+
+[![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
+
+[![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 
 
