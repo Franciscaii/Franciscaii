@@ -11,6 +11,13 @@
 
 :pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 
+🎮 **Cualidades Personales:**  
+
+>Me apasionan los proyectos tanto como el proceso creativo de diseño como de su desarrollo ,
+>las temáticas de estos varían constantemente, siendo realizados tanto por índole personal
+>como profesional .💡 Me considero una persona versátil ,autocritica , comprometía, organizada,
+>perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
+>la capacidad de dudar es un signo de sabiduría.
 
 ##🎓Formación Académica:
 - Soy Francisca Figueroa de 22 Años actualmente estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
@@ -71,17 +78,6 @@
 
 ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
-
-
-
-🎮 **Cualidades Personales:**  
-
->Me apasionan los proyectos tanto como el proceso creativo de diseño como de su desarrollo ,
->las temáticas de estos varían constantemente, siendo realizados tanto por índole personal
->como profesional .💡 Me considero una persona versátil ,autocritica , comprometía, organizada,
->perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
->la capacidad de dudar es un signo de sabiduría.
 
 ---
 
