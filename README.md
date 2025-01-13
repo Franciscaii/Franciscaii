@@ -18,7 +18,7 @@
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-red?style=for-the-badge)
 
 
-## Pais Chile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+Pais Chile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p align="center">
 <h3>Alojamiento en la nube</h3>
