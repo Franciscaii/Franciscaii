@@ -83,9 +83,14 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!" style="border: 5px solid red; border-radius: 10px;">
   </a>
-
-  [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
 </p>
+
+<div style="text-align: center;">
+  <a href="mailto:francisca.figueroaer@gmail.com">
+    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</div>
+
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 Última edición:  13/01/2025  <br>
