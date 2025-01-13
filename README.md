@@ -18,8 +18,6 @@
 ![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
 
 
-:pushpin:[Ubicación](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
 
 ## 🕹️ Acerca de mí  
 🎓 **Formación Académica:**  
