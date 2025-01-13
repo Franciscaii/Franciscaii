@@ -9,6 +9,8 @@
 
 ## 🕹️ Acerca de mí  
 
+Tengo 22 años 
+Soy estudiante
 :pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 
 🎮 **Cualidades Personales:**  
