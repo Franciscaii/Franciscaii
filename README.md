@@ -84,32 +84,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="mailto:francisca.figueroaer@gmail.com">
-    <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail Badge">
-  </a>
-</p>
-
-
-<style>
-  @keyframes vibrar {
-    0%, 100% { transform: translateX(0); }
-    20% { transform: translateX(-2px); }
-    40% { transform: translateX(2px); }
-    60% { transform: translateX(-2px); }
-    80% { transform: translateX(2px); }
-  }
-
-  .vibrar {
-    display: inline-block;
-    animation: none;
-    transition: transform 0.2s ease;
-  }
-
-  .vibrar:hover {
-    animation: vibrar 0.5s infinite;
-  }
-</style>
 
 <p align="center">
   <a href="mailto:francisca.figueroaer@gmail.com" class="vibrar">
