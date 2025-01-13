@@ -6,9 +6,6 @@
 
 <h1 align="center"><b>¡Bienvenid@ a mi Portafolio!</b></h1>
 
-[![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
-
 
 <h3>Idiomas Manejados:</h3>
 
@@ -42,12 +39,13 @@ Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre e
 ---
 
 ## 🎨 Pasatiempos y Hobbies  
-🌱 Cultivar mis propios vegetales  
-📚 Leer manga, ver anime, K-dramas, J-dramas, documentales y películas  
-🍳 Experimentar nuevas recetas  
-🖌️ Pintar cuadros  
+🌱 Cultivar mis propios vegetales.
+⛰️ Escalar montañas y cerros. 
+🖌️ Pintar cuadros.
+📚 Leer manga, ver anime, K-dramas, J-dramas, Documentales.
+🍳 Experimentar nuevas recetas. 
 🔨 Carpintería  
-⛰️ Escalar montañas y cerros  
+
 
 ---
 
@@ -58,14 +56,16 @@ Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre e
 
 
 ---
+## Contactame con:
+
+[![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
+
+---
 
 <p align="center">
   <img src="https://github.com/Franciscaii/Franciscaii/blob/main/arcade-game.gif" width="600px" alt="Pixel art arcade style">
 </p>
-
-
-
-
 
 
 
