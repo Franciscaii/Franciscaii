@@ -6,16 +6,14 @@
 </p>
 
 
-<div style="text-align: center;">
-  <a href="mailto:francisca.figueroaer@gmail.com" style="display: inline-block;">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="mailto:francisca.figueroaer@gmail.com">
     <img src="https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com" alt="Gmail Badge">
   </a>
-  <a href="https://discord.com/users/1149484605800448152" style="display: inline-block;">
+  <a href="https://discord.com/users/1149484605800448152">
     <img src="https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
 </div>
-
-
 
 
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
