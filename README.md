@@ -80,7 +80,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!" style="border: 5px solid red; border-radius: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!" style="border: 5px solid red; border-radius: 1px;">
   </a>
 </p>
 
@@ -100,35 +100,6 @@
              onmouseout="this.style.transform='scale(1)'">
     </a>
 </p>
-
-
-
-<p align="center" style="margin-bottom: 5px;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!" style="border: 5px solid red; border-radius: 10px;">
-  </a>
-</p>
-
-<p align="center" style="margin-top: 5px; margin-bottom: 20px;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Contactame+al+siguiente+Correo." style="border: 5px solid red; border-radius: 10px;">
-  </a>
-</p>
-
-<p align="center">
-    <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
-        <img src="https://github.com/Franciscaii/Franciscaii/blob/main/botongmail.gif" 
-             alt="Enviar correo a Francisca" 
-             style="width: 325px; height: auto; cursor: pointer; transition: transform 0.3s ease;"
-             onmouseover="this.style.transform='scale(1.1)'" 
-             onmouseout="this.style.transform='scale(1)'">
-    </a>
-</p>
-
-
-
-
-
 
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
