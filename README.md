@@ -21,6 +21,64 @@
 :pushpin:[Ubicación](https://maps.app.goo.gl/JYWdyR3UXastFNoT6) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 
+
+<h1 align="center">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/pixel-avatar.gif" width="100px">
+  <br>
+  ¡Bienvenid@ a mi Portafolio!
+</h1>
+
+---
+
+## 🕹️ Acerca de mí  
+🎓 **Formación Académica:**  
+Soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
+:pushpin: Vivo en [Chile](https://maps.app.goo.gl/JYWdyR3UXastFNoT6)  
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
+
+🎮 **Cualidades Personales:**  
+> Me apasiona el desarrollo de proyectos y el proceso creativo detrás de ellos.  
+> 💡 Soy versátil, autocrítica, comprometida, organizada, perseverante y reflexiva.  
+> *"En un mundo lleno de certezas, la capacidad de dudar es un signo de sabiduría"*  
+> — Bertrand Russell  
+
+---
+
+## 🛠️ Intereses Profesionales  
+- 🌐 Desarrollo y mantenimiento de páginas web  
+- 📱 Creación de aplicaciones móviles  
+- 🗂️ Bases de datos  
+
+---
+
+## 🎨 Pasatiempos y Hobbies  
+🌱 Cultivar mis propios vegetales  
+📚 Leer manga, ver anime, K-dramas, J-dramas, documentales y películas  
+🍳 Experimentar nuevas recetas  
+🖌️ Pintar cuadros  
+🔨 Carpintería  
+⛰️ Escalar montañas y cerros  
+
+---
+
+## 🎲 Interactivo y en Pixel Art  
+
+### **Presiona los botones para explorar más sobre mí**  
+[![Proyectos](https://img.shields.io/badge/-Ver%20Proyectos-%23FF6D00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Franciscaii?tab=repositories)  
+[![Contacto](https://img.shields.io/badge/-Contacto-%230A81AB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francisca.figueroaer@gmail.com)
+
+---
+
+<p align="center">
+  <img src="https://github.com/Franciscaii/Franciscaii/blob/main/arcade-game.gif" width="600px" alt="Pixel art arcade style">
+</p>
+
+
+
+
+
+
+
 <p align="center">
 <h3>Alojamiento en la nube</h3>
 
