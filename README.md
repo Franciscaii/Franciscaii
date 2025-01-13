@@ -92,25 +92,6 @@
 </p>
 
 
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
-
-Última edición:  13/01/2025  <br>
-Gracias por visitar mi perfil 🤓
-
-
-
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
-    <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
-        <img src="https://github.com/Franciscaii/Franciscaii/blob/main/botongmail.gif" 
-             alt="Enviar correo a Francisca" 
-             style="width: 250px; height: auto; cursor: pointer; transition: transform 0.3s ease;"
-             onmouseover="this.style.transform='scale(1.1)'" 
-             onmouseout="this.style.transform='scale(1)'">
-    </a>
-</div>
-
-
-
 <p align="center">
     <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
         <img src="https://github.com/Franciscaii/Franciscaii/blob/main/botongmail.gif" 
@@ -122,8 +103,8 @@ Gracias por visitar mi perfil 🤓
 </p>
 
 
+<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
-
-
-
+Última edición:  13/01/2025  <br>
+Gracias por visitar mi perfil 🤓
 
