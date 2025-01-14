@@ -45,6 +45,8 @@
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![React](https://img.shields.io/badge/React-%2300d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
+
 
 
 <h3>Desarrollo de back-end</h3>
@@ -71,11 +73,9 @@
 
 <h3>Idiomas:</h3>
 
-<details>
-<summary>Nota Importante:</summary>
-Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enfocados en escucha y comprensión inicial, a nivel profesional no tengo experiencia trabajando con estos idiomas .
+>[!IMPORTANT]
+>Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enfocados en escucha y comprensión inicial, a nivel profesional no tengo experiencia trabajando >con estos idiomas .
 
-</details>
 
 ![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
