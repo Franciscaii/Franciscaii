@@ -29,7 +29,7 @@
 <p align="center">
 <h3>Alojamiento en la nube</h3>
 
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23003366.svg?style=for-the-badge&logo=github&logoColor=white)
 
   <h3>Lenguajes de programación</h3>
 
@@ -57,10 +57,10 @@
 <h3>Desarrollo de back-end</h3>
 
   ![Django](https://img.shields.io/badge/Django-%23333300.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%23CCCCFF.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%23999933.svg?style=for-the-badge&logo=mongodb&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
 
    
@@ -68,7 +68,7 @@
 
   ![Git](https://img.shields.io/badge/git-%23FF3333.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%2366FFCC.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9146FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4B32C3?style=for-the-badge&logo=mysql&logoColor=white)
@@ -124,7 +124,7 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 ## 📬 Contactame con:
 
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-FF4088?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
+[![Discord](https://img.shields.io/badge/Discord-FF009?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 ---
 ## 📊 Mis estadísticas de GitHub
