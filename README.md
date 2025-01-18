@@ -92,7 +92,7 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 <h3>Extras</h3>
 
 ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-23092E20?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-23092E20.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ---
