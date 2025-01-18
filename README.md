@@ -123,9 +123,8 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 ---
 ## 📬 Contactame con:
 
-[![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-660000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-FF0066?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-990000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-FF0066?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 ---
 ## 📊 Mis estadísticas de GitHub
