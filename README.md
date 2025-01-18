@@ -83,11 +83,34 @@
 Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enfocados en escucha y comprensión inicial, a nivel profesional no tengo experiencia trabajando con estos idiomas .
 </details>
 
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="28">
+  <rect width="70" height="28" fill="black" />
+  <rect x="70" width="80" height="28" fill="#33FFFF" />
+  <text x="35" y="18" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">ENGLISH</text>
+  <text x="110" y="18" font-family="Arial, sans-serif" font-size="12" fill="black" text-anchor="middle">BASIC</text>
+</svg>
 
-![English Level](https://img.shields.io/badge/English-Basic-%2333FFFF?style=flat-square&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2333FFCC?style=flat-square&labelColor=black)
-![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%2333FF99?style=flat-square&labelColor=black)
-![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%2333FF66?style=flat-square&labelColor=black)
+<svg xmlns="http://www.w3.org/2000/svg" width="150" height="28">
+  <rect width="70" height="28" fill="black" />
+  <rect x="70" width="80" height="28" fill="#33FFCC" />
+  <text x="35" y="18" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">SPANISH</text>
+  <text x="110" y="18" font-family="Arial, sans-serif" font-size="12" fill="black" text-anchor="middle">NATIVE</text>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28">
+  <rect width="90" height="28" fill="black" />
+  <rect x="90" width="90" height="28" fill="#33FF99" />
+  <text x="45" y="18" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">JAPANESE</text>
+  <text x="135" y="18" font-family="Arial, sans-serif" font-size="12" fill="black" text-anchor="middle">BASIC LISTENING</text>
+</svg>
+
+<svg xmlns="http://www.w3.org/2000/svg" width="180" height="28">
+  <rect width="90" height="28" fill="black" />
+  <rect x="90" width="90" height="28" fill="#33FF66" />
+  <text x="45" y="18" font-family="Arial, sans-serif" font-size="12" fill="white" text-anchor="middle">KOREAN</text>
+  <text x="135" y="18" font-family="Arial, sans-serif" font-size="12" fill="black" text-anchor="middle">BASIC LISTENING</text>
+</svg>
+
 
 
 
