@@ -32,11 +32,11 @@
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
   <h3>Lenguajes de programación</h3>
-    
+  
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
   ![HLSL](https://img.shields.io/badge/HLSL-%239400D3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
@@ -163,6 +163,6 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
-Última edición:  13/01/2025  <br>
+Última edición:  18/01/2025  <br>
 Gracias por visitar mi perfil 🤓
 
