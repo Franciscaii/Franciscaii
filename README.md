@@ -83,11 +83,10 @@
 Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enfocados en escucha y comprensión inicial, a nivel profesional no tengo experiencia trabajando con estos idiomas .
 </details>
 
-
-![English Level](https://img.shields.io/badge/English-Basic-%2361f4de?style=for-the-badge&labelColor=black)
-![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2365cbe9?style=for-the-badge&labelColor=black)
-![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%2368b6ef?style=for-the-badge&labelColor=black)
-![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%236c8dfa?style=for-the-badge&labelColor=black)
+![English Level](https://img.shields.io/badge/English-Basic-%2333FFFF?style=for-the-badge&labelColor=black)
+![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2333FFCC?style=for-the-badge&labelColor=black)
+![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%2333FF99?style=for-the-badge&labelColor=black)
+![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%2333FF66?style=for-the-badge&labelColor=black)
 
 
 <h3>Extras</h3>
@@ -125,6 +124,7 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 ## 📬 Contactame con:
 
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-990000?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
+![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%236c8dfa?style=for-the-badge&labelColor=black)
 [![Discord](https://img.shields.io/badge/Discord-FF0066?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 ---
