@@ -83,6 +83,13 @@
 Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enfocados en escucha y comprensión inicial, a nivel profesional no tengo experiencia trabajando con estos idiomas .
 </details>
 
+
+![English Level](https://img.shields.io/badge/English-Basic-%2361f4de?style=for-the-badge&labelColor=black)
+![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2365cbe9?style=for-the-badge&labelColor=black)
+![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%2368b6ef?style=for-the-badge&labelColor=black)
+![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%236c8dfa?style=for-the-badge&labelColor=black)
+
+
 ![English Level](https://img.shields.io/badge/English-Basic-4B32C3?style=for-the-badge&labelColor=black)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2300f?style=for-the-badge&labelColor=black)
 ![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%23ffb6c1?style=for-the-badge&labelColor=black)
