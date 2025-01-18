@@ -86,6 +86,8 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 ![English Level](https://img.shields.io/badge/English-Basic-%2333FFFF?style=for-the-badge&labelColor=black)
 ![Spanish Level](https://img.shields.io/badge/Spanish-Native-%2333FFCC?style=for-the-badge&labelColor=black)
 ![Japanese Level](https://img.shields.io/badge/Japanese-Basic%20Listening-%2333FF99?style=for-the-badge&labelColor=black)
+![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%2333FF66?style=flat-square&labelColor=black&color=33FF66)
+
 ![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%2328A745?style=for-the-badge&labelColor=black)
 
 ![Korean Level](https://img.shields.io/badge/Korean-Basic%20Listening-%2333FF66?style=for-the-badge&labelColor=black)
