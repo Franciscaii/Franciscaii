@@ -55,7 +55,8 @@
 
 
 <h3>Desarrollo de back-end</h3>
-  
+
+  ![Django](https://img.shields.io/badge/Django-%23008C2F.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
