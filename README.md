@@ -38,15 +38,7 @@
   ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![HLSL](https://img.shields.io/badge/HLSL-%239400D3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&color=black)
-  ![Android-Studio](https://img.shields.io/badge/Android-Studio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&color=black)
-
-
-
-
-
-
-
+ 
 
 
 
@@ -80,7 +72,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9146FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   ![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4B32C3?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&labelColor=black)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
