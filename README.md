@@ -46,7 +46,7 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23CCFF00.svg?style=for-the-badge&logo=javascript&logoColor=black)
    ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23660033.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2300d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
    ![LocalStorage](https://img.shields.io/badge/LocalStorage-%23FF00FF.svg?style=for-the-badge&logo=react&logoColor=white)
@@ -57,7 +57,7 @@
 <h3>Desarrollo de back-end</h3>
 
   ![Django](https://img.shields.io/badge/Django-%23333300.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-%23CCCCFF.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%23CC33FF.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%23999933.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -68,12 +68,12 @@
 
   ![Git](https://img.shields.io/badge/git-%23FF3333.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Google](https://img.shields.io/badge/google-%2366FFCC.svg?style=for-the-badge&logo=google&logoColor=white)
+  ![Google](https://img.shields.io/badge/google-%233366CC.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9146FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-   ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2332CD32.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2332CD32.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4B32C3?style=for-the-badge&logo=mysql&logoColor=white)
-  ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%23660066?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
 <h3>Idiomas:</h3>
@@ -124,7 +124,8 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 ## 📬 Contactame con:
 
 [![Gmail Badge](https://img.shields.io/badge/-francisca.figueroaer@gmail.com-A80030?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:francisca.figueroaer@gmail.com)](mailto:francisca.figueroaer@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-FF009?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
+[![Discord](https://img.shields.io/badge/Discord-FF0066?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
+
 
 ---
 ## 📊 Mis estadísticas de GitHub
