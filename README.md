@@ -38,8 +38,8 @@
   ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![HLSL](https://img.shields.io/badge/HLSL-%239400D3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio%20-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&textColor=black)
-  <img src="https://img.shields.io/badge/Android%20Studio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black" alt="Android Studio" style="color: black;">
+  ![AndroidStudio](https://img.shields.io/badge/AndroidStudio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&color=black)
+  ![Android-Studio](https://img.shields.io/badge/Android-Studio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&color=black)
 
 
 
