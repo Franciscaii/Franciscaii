@@ -37,7 +37,11 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![HLSL](https://img.shields.io/badge/HLSL-%239400D3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2300FF00.svg?style=for-the-badge&logo=androidstudio&logoColor=black&labelColor=black)
+
+
+
 
 
 
