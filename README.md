@@ -32,7 +32,8 @@
   ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
 
   <h3>Lenguajes de programación</h3>
-    
+
+  ![Python](https://img.shields.io/badge/Python%20-%23000066.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -47,7 +48,7 @@
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23660033.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
    ![React](https://img.shields.io/badge/React-%2300d8ff.svg?style=for-the-badge&logo=react&logoColor=white)
    ![LocalStorage](https://img.shields.io/badge/LocalStorage-%23FF00FF.svg?style=for-the-badge&logo=react&logoColor=white)
 
@@ -56,7 +57,8 @@
 
 <h3>Desarrollo de back-end</h3>
 
-  ![Django](https://img.shields.io/badge/Django-%23008C2F.svg?style=for-the-badge&logo=django&logoColor=white)
+
+  ![Django](https://img.shields.io/badge/Django-%23006666.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -67,6 +69,7 @@
    
 <h3>Software y herramientas</h3>
 
+  ![Git](https://img.shields.io/badge/git-%23FF3333.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
