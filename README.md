@@ -35,9 +35,11 @@
     
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HLSL](https://img.shields.io/badge/HLSL-%239400D3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 
-  
 
   <h3>Desarrollo front-end</h3>
 
