@@ -34,7 +34,6 @@
   <h3>Lenguajes de programación</h3>
 
   ![Python](https://img.shields.io/badge/Python%20-%23000066.svg?style=for-the-badge&logo=python&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
   ![C#](https://img.shields.io/badge/C%23-%230033FF.svg?style=for-the-badge&logo=csharp&logoColor=white)
   ![HLSL](https://img.shields.io/badge/HLSL-%239400D3.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -57,9 +56,7 @@
 
 <h3>Desarrollo de back-end</h3>
 
-
-  ![Django](https://img.shields.io/badge/Django-%23006666.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-%23333300.svg?style=for-the-badge&logo=django&logoColor=white)
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
@@ -70,7 +67,6 @@
 <h3>Software y herramientas</h3>
 
   ![Git](https://img.shields.io/badge/git-%23FF3333.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9146FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -96,7 +92,8 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 <h3>Extras</h3>
 
 ![Unity Hud](https://img.shields.io/badge/Unity_Hud-FF4088?style=for-the-badge&logo=unity&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-23092E20?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 ---
 
