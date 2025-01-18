@@ -70,9 +70,9 @@
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![Google](https://img.shields.io/badge/google-%2366FFCC.svg?style=for-the-badge&logo=google&logoColor=white)
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-9146FF.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+   ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2332CD32.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4B32C3?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Android Studio](https://img.shields.io/badge/Android%20Studio-%2332CD32.svg?style=for-the-badge&logo=androidstudio&logoColor=white)
   ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
