@@ -74,6 +74,10 @@
   ![Oracle VirtualBox](https://img.shields.io/badge/Oracle%20VirtualBox-FF0066?style=for-the-badge&logo=virtualbox&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4B32C3?style=for-the-badge&logo=mysql&logoColor=white)
   ![MongoDB Compass](https://img.shields.io/badge/MongoDB%20Compass-%23660066?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![RStudio](https://img.shields.io/badge/RStudio-%23276DC3.svg?style=for-the-badge&logo=rstudio&logoColor=white)
+  ![KNIME](https://img.shields.io/badge/KNIME-%23F9DC3A.svg?style=for-the-badge&logo=knime&logoColor=black)
+  ![Autopsy](https://img.shields.io/badge/Autopsy-%230066CC.svg?style=for-the-badge&logoColor=white)
+
 
 
 <h3>Idiomas:</h3>
