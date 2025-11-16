@@ -22,7 +22,7 @@
 ---
 
 ## 🎓Formación Académica:
-- Actualmente soy estudiante de **Ingeniería en Informática**, cursando el quinto semestre en [INACAP](https://portal.inacap.cl/).  
+- Actualmente soy estudiante de **Ingeniería en Informática**, cursando el sexto semestre en [INACAP](https://portal.inacap.cl/).  
 - Tengo experiencia y conocimiento trabajando con:
 
 
@@ -160,6 +160,6 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 
 <div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
 
-Última edición:  18/01/2025  <br>
+Última edición:  16/11/2025  <br>
 Gracias por visitar mi perfil 🤓
 
