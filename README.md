@@ -127,24 +127,6 @@ Japonés y Coreano: Conocimientos básicos adquiridos de manera autodidacta, enf
 [![Discord](https://img.shields.io/badge/Discord-%236c8dfa?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1149484605800448152)
 
 ---
-## 📊 Mis estadísticas de GitHub
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Franciscaii&show_icons=true&theme=radical)
-
-<img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franciscaii&count_private=true&theme=radical" alt="Franciscaii" />
-
-
-<div align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></center></h3></div>
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=¡Trabajemos+juntos+en+tu+Proyecto!">
-  </a>
-</p>
-
-
 <p align="center">
     <a href="mailto:francisca.figueroaer@gmail.com" style="text-decoration: none;">
         <img src="https://github.com/Franciscaii/Franciscaii/blob/main/botongmail.gif" 
