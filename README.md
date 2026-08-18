@@ -17,7 +17,7 @@
 >las temáticas de estos varían constantemente, siendo realizados tanto por índole personal
 >como profesional .💡 Me considero una persona versátil ,autocritica , comprometía, organizada,
 >perseverante y reflexiva ,como dijo Bertrand Russell creo que "En un mundo lleno de certezas,
->la capacidad de dudar es un signo de sabiduría.
+>la capacidad de dudar es un signo de sabiduría".
 
 ---
 
